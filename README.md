@@ -1,10 +1,12 @@
-### Hi there 👋, Prosper Ainebyona
+# Prosper Ainebyona
 #### Development and Design
 ! [Development and Design] (https://github.com/prosperaine/prosperaine/blob/main/Tech.jpg)
 
 I'm Prosper from Uganda, I enjoy exploring software and I'm excited to contribute my skill set to real-world applications and challenges. I'm actively open to explore opportunities within the Information Technology Industry.
 
-Skills: WordPress / HTML / CSS
+## Skills and Experience
+* 💻 WordPress
+* ⌨️ HTML, CSS
 
 - 🔭 I’m currently working at Ken Tsitsi Investments Ltd 
 
